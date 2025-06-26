@@ -1,4 +1,4 @@
---
+---
 title: 語言本體論大學第三次籌備會議 - 開靈智
 date: 2025-05-14
 location: Kaffi Bakki
